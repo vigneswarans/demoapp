@@ -1,4 +1,4 @@
-###################################################
+#####################################################
 #--------moduel networking for vpc,subnets,routes,IG,nat-GW------------
 aws_region = "ap-south-1"
 environment = "dev"
@@ -15,7 +15,7 @@ tenant = "single"
 product = "customer1"
 manager = "mythilibala1985@gmail.com"
 owner = "mythilibala1985@gmail.com"
-purpose = "development terraform test for sample app"
+purpose = "development terraform testing for sample app"
 
 ###################################################
 #--------moduel for ECS creation------------
