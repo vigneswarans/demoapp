@@ -15,10 +15,10 @@ tenant = "single"
 product = "customer1"
 manager = "mythilibala1985@gmail.com"
 owner = "mythilibala1985@gmail.com"
-purpose = " terraform test for sample app"
+purpose = " development terraform testing for sample app"
 
 ###################################################
-#--------moduel for ECS creation------------
+#--------module for ECS creation------------
 ecs_base_ami_name = "amzn2-ami-hvm*"
 ecs_instance_type = "t3a.micro"
 ecs_volume_size = "30"
