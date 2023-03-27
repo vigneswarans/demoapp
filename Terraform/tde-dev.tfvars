@@ -15,7 +15,7 @@ tenant = "single"
 product = "customer1"
 manager = "mythilibala1985@gmail.com"
 owner = "mythilibala1985@gmail.com"
-purpose = "development terraform testing for sample app"
+purpose = " terraform testing for sample app"
 
 ###################################################
 #--------moduel for ECS creation------------
