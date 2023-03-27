@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 80
 
 # Run index.js when the container launches
-CMD ["node", "index.js"]
+CMD ["node", "node.js"]
